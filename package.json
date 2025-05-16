@@ -1,0 +1,24 @@
+{
+  "name": "api-usuarios",
+  "version": "1.0.0",
+  "description": "Criação de uma API que é capaz de linkar JS com SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizeucp/api-usuarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizeucp/api-usuarios/issues"
+  },
+  "homepage": "https://github.com/elizeucp/api-usuarios#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
